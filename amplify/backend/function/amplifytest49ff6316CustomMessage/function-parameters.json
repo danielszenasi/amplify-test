@@ -1,0 +1,24 @@
+{
+    "trigger": true,
+    "modules": [
+        "verification-link"
+    ],
+    "parentResource": "amplifytest49ff6316",
+    "functionName": "amplifytest49ff6316CustomMessage",
+    "resourceName": "amplifytest49ff6316CustomMessage",
+    "parentStack": "auth",
+    "triggerEnvs": [
+        {
+            "key": "RESOURCENAME",
+            "value": "resourceName"
+        }
+    ],
+    "triggerDir": "/Users/danielszenasi/.nvm/versions/node/v10.16.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/CustomMessage",
+    "triggerTemplate": "CustomMessage.json.ejs",
+    "roleName": "amplifytest49ff6316CustomMessage",
+    "skipEdit": true,
+    "REDIRECTURL": "",
+    "EMAILSUBJECT": "",
+    "EMAILMESSAGE": "",
+    "RESOURCENAME": "resourceName"
+}

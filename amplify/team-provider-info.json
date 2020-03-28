@@ -17,6 +17,16 @@
                     "appId": "d19ynxmvlh2f5b",
                     "type": "cicd"
                 }
+            },
+            "function": {
+                "amplifytest49ff6316CustomMessage": {
+                    "REDIRECTURL": "",
+                    "EMAILSUBJECT": "",
+                    "EMAILMESSAGE": ""
+                }
+            },
+            "auth": {
+                "amplifytest49ff6316": {}
             }
         }
     }
